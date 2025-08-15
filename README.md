@@ -16,7 +16,7 @@
 ## 📌 Featured Projects
 - [**KaHealth**](https://github.com/Thisisnotbrai/KaHealth) – Mobile-first health web app with admin dashboard and community updates.  
 - [**SeekUp**](https://github.com/Thisisnotbrai/SeekUp) – Community-based job platform for women in Olongapo.  
-- **Baletra** – 2D pixel-art top-down indie game built with Godot and Aseprite. Inspired by Philippine's Folk lore/Myths
+- **Baletra** – 2D pixel-art top-down indie game built with Godot and Aseprite. Inspired by Philippine's Folk lore/Myths (TBA)
 
 ---
 
