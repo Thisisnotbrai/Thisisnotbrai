@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Braian Robles
+Hi, I'm Braian Robles
 
 Eager to learn and explore new technologies.  
 Passionate about building projects that solve real-world problems.  
