@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Braian Robles  
 
-💡 Eager to learn and explore new technologies — from building responsive web apps to diving into cloud computing and cybersecurity.  
-🚀 Passionate about creating projects that solve real-world problems while constantly improving my skills.  
+Eager to learn and explore new technologies — from building responsive web apps to diving into cloud computing and cybersecurity. 
+Passionate about creating projects that solve real-world problems while constantly improving my skills.  
 
 ---
 
@@ -12,14 +12,7 @@
 **Cloud & Tech Interests:** AWS Cloud, Cybersecurity  
 
 ---
-
-## 📌 Featured Projects
-- [**KaHealth**](https://github.com/Thisisnotbrai/KaHealth) — Mobile-first health web app with admin dashboard and community updates.  
-- [**SeekUp**](https://github.com/Thisisnotbrai/SeekUp) — Community-based job platform for women in Olongapo.  
-- **Baletra** *(TBA)* — 2D pixel-art top-down indie game inspired by Philippine folklore & myths.  
-
----
-
+ 
 ## 📊 GitHub Snapshot
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Thisisnotbrai&show_icons=true&theme=tokyonight" height="150"/>
