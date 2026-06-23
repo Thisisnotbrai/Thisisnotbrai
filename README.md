@@ -6,7 +6,7 @@ Passionate about building projects that solve real-world problems.
 ---
 
 ## 🛠 Skills
-Web Development | Backend | Databases | Game Development | Cloud & Cybersecurity  
+Full Stack | Game Development | Cloud & Cybersecurity  
 
 ---
 
