@@ -5,17 +5,17 @@ Passionate about building projects that solve real-world problems.
 
 ---
 
-## 🛠 Skills
+## Skills
 Full Stack | Game Development | Cloud & Cybersecurity  
 
 ---
 
-## 📊 GitHub Snapshot
+## GitHub Snapshot
 ![Stats](https://github-readme-stats.vercel.app/api?username=Thisisnotbrai&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Contact
+## Contact
 [LinkedIn](https://www.linkedin.com/in/braian-robles-752585339) | [Email](mailto:braian.robles26@gmail.com)  
 
 ---
