@@ -6,7 +6,10 @@ Passionate about building projects that solve real-world problems.
 ---
 
 ## Skills
-Full Stack | Game Development | Cloud & Cybersecurity  
+
+[React] [TypeScript] [Node.js] [Express.js]
+[MongoDB] [MySQL] [Git] [Docker]
+[AWS] [Unity] [Godot] [Cybersecurity]
 
 ---
 
