@@ -7,9 +7,7 @@ Passionate about building projects that solve real-world problems.
 
 ## Skills
 
-[React] [TypeScript] [Node.js] [Express.js]
-[MongoDB] [MySQL] [Git] [Docker]
-[AWS] [Unity] [Godot] [Cybersecurity]
+React | TypeScript | Node.js | Express.js | MongoDB | MySQL | Git | Docker | AWS | Unity | Godot | Cybersecurity
 
 ---
 
