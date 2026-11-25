@@ -1,5 +1,7 @@
 Hi, I'm Braian Robles
 
+I'm working as Game Developer and Software Engineer!
+
 Eager to learn and explore new technologies.  
 Passionate about building projects that solve real-world problems.  
 
